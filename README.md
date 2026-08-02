@@ -14,6 +14,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge\&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Interactive-F7DF1E?style=for-the-badge\&logo=javascript)
 
+## 🌐 Live Demo
+https://mental-health-score-sankesh-lal.vercel.app/
+
 ---
 
 # 📌 About the Project

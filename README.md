@@ -14,6 +14,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge\&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Interactive-F7DF1E?style=for-the-badge\&logo=javascript)
 
+---
+
 ## 🌐 Live Demo
 https://mental-health-score-sankesh-lal.vercel.app/
 
@@ -65,6 +67,8 @@ Three regression models were trained and compared before selecting the final mod
 | **Random Forest (Default)** ✅ |             **87%** |   **0.981** | **0.347** | **0.464** |
 | **Random Forest (Tuned)**     |             **86%** |       0.955 |     0.369 |     0.487 |
 
+---
+
 ### ✅ Final Model
 
 **Random Forest Regressor (Default)**
@@ -73,20 +77,6 @@ It achieved the highest **R² Score (87.76%)**, along with the lowest MAE and RM
 
 ---
 
-# 🛠️ Tech Stack
-
-| Layer                | Technology                       |
-| -------------------- | -------------------------------- |
-| Programming Language | Python                           |
-| Data Analysis        | Pandas, NumPy                    |
-| Data Visualization   | Matplotlib, Seaborn              |
-| Machine Learning     | Scikit-Learn                     |
-| Models               | Linear Regression, Random Forest |
-| Backend API          | FastAPI                          |
-| Frontend             | HTML, CSS, JavaScript            |
-| Model Serialization  | Joblib                           |
-
----
 
 # 📂 Project Structure
 
@@ -136,37 +126,9 @@ Mental-Health-Score/
 
 11. User enters personal, academic, and lifestyle information.
 
-12. The API predicts a **Mental Health Score (0–10)** instantly.
+12. Deployed on Vercel.
 
----
-
-# 🚀 Run Locally
-
-Clone the repository
-
-```bash
-git clone https://github.com/Sankesh12/Student_Mental_Health_Score_Prediction.git
-
-cd Student_Mental_Health_Score_Prediction
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the FastAPI server
-
-```bash
-uvicorn main:app --reload
-```
-
-Open the frontend
-
-```text
-Open index.html in your browser
-```
+13. The API predicts a **Mental Health Score (0–10)** instantly.
 
 ---
 
@@ -218,72 +180,6 @@ Predicted Mental Health Score : 8.42 / 10
 
 ---
 
-# 📊 Exploratory Data Analysis
-
-The project includes
-
-* Dataset Overview
-
-* Statistical Summary
-
-* Missing Value Analysis
-
-* Duplicate Record Check
-
-* Correlation Heatmap
-
-* Mental Health Score Distribution
-
-* Social Media Usage Analysis
-
-* Stress Level Analysis
-
-* Sleep Hours Distribution
-
-* Study Hours Analysis
-
-* Physical Activity Analysis
-
----
-
-# 🌳 Feature Analysis
-
-The model learns patterns from several important factors influencing student mental health.
-
-Important features include:
-
-* Stress Level
-
-* Sleep Hours Per Night
-
-* Average Daily Social Media Usage
-
-* Physical Activity Hours
-
-* Study Hours
-
-* Daily Phone Unlocks
-
-* Academic Level
-
-* Most Used Platform
-
----
-
-# 📈 Regression Evaluation Metrics
-
-The model was evaluated using standard regression metrics:
-
-* R² Score
-
-* Mean Absolute Error (MAE)
-
-* Root Mean Squared Error (RMSE)
-
-These metrics demonstrate that the Random Forest model provides strong predictive performance and generalizes well to unseen student data.
-
----
-
 # 💼 Key Insights
 
 The analysis provides several valuable insights:
@@ -299,28 +195,6 @@ The analysis provides several valuable insights:
 * Balanced study habits are associated with healthier mental health outcomes.
 
 These insights can help educational institutions better understand student well-being and support data-driven decision making.
-
----
-
-# 🧠 What I Learned
-
-* Performing Exploratory Data Analysis (EDA)
-
-* Data Cleaning and Preprocessing
-
-* Feature Engineering
-
-* Training and Comparing Regression Models
-
-* Evaluating Regression Models
-
-* Building REST APIs using FastAPI
-
-* Saving and Loading Machine Learning Models
-
-* Integrating Machine Learning with Frontend Applications
-
-* Deploying Machine Learning Projects
 
 ---
 

@@ -102,36 +102,6 @@ Mental-Health-Score/
 
 ---
 
-# ⚙️ How It Works
-
-1. Load the Student Social Media & Mental Health dataset.
-
-2. Perform data cleaning and preprocessing.
-
-3. Encode categorical variables.
-
-4. Split the dataset into training and testing sets.
-
-5. Train Linear Regression and Random Forest models.
-
-6. Compare model performance using regression metrics.
-
-7. Select the best-performing Random Forest model.
-
-8. Save the trained model using Joblib.
-
-9. Build a FastAPI backend for serving predictions.
-
-10. Create an interactive frontend using HTML, CSS, and JavaScript.
-
-11. User enters personal, academic, and lifestyle information.
-
-12. Deployed on Vercel.
-
-13. The API predicts a **Mental Health Score (0–10)** instantly.
-
----
-
 # 📊 Application Inputs
 
 The application predicts mental health score using the following student information:
@@ -159,6 +129,38 @@ The application predicts mental health score using the following student informa
 * Sleep Hours Per Night
 
 * Stress Level
+
+---
+
+
+
+# ⚙️ How It Works
+
+1. Load the Student Social Media & Mental Health dataset.
+
+2. Perform data cleaning and preprocessing.
+
+3. Encode categorical variables.
+
+4. Split the dataset into training and testing sets.
+
+5. Train Linear Regression and Random Forest models.
+
+6. Compare model performance using regression metrics.
+
+7. Select the best-performing Random Forest model.
+
+8. Save the trained model using Joblib.
+
+9. Build a FastAPI backend for serving predictions.
+
+10. Create an interactive frontend using HTML, CSS, and JavaScript.
+
+11. User enters personal, academic, and lifestyle information.
+
+12. Deployed on Vercel.
+
+13. The API predicts a **Mental Health Score (0–10)** instantly.
 
 ---
 

@@ -91,11 +91,11 @@ It achieved the highest **R² Score (87.76%)**, along with the lowest MAE and RM
 # 📂 Project Structure
 
 ```text
-Student_Mental_Health_Score_Prediction/
-
+Mental-Health-Score/
 │── model.pkl
 │── mental_health_score.ipynb
-│── main.py
+│── api
+     └── main.py
 │── index.html
 │── style.css
 │── script.js
@@ -103,6 +103,7 @@ Student_Mental_Health_Score_Prediction/
 │── requirements.txt
 │── README.md
 ```
+
 # 📸 Project Demo
 ![image alt](https://github.com/Sankesh12/Mental-Health-Score/blob/main/mental_1.jpg)
 

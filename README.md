@@ -1,6 +1,6 @@
 # 🧠 Student Mental Health Score Prediction
 
-### - An End-to-End Machine Learning Project for Predicting Student Mental Health Score using Social Media Usage, Lifestyle Habits, and Academic Information.
+- ### An End-to-End Machine Learning Project for Predicting Student Mental Health Score using Social Media Usage, Lifestyle Habits, and Academic Information.
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge\&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge\&logo=pandas)

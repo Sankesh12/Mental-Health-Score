@@ -1,0 +1,18 @@
+{
+  "builds": [
+    {
+      "src": "api/main.py",
+      "use": "@vercel/python",
+      "config": { "includeFiles": ["model.pkl"] }
+    },
+    { "src": "index.html", "use": "@vercel/static" },
+    { "src": "script.js", "use": "@vercel/static" },
+    { "src": "style.css", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/predict", "dest": "api/main.py" },
+    { "src": "/script.js", "dest": "script.js" },
+    { "src": "/style.css", "dest": "style.css" },
+    { "src": "/(.*)", "dest": "index.html" }
+  ]
+}

@@ -103,6 +103,9 @@ Student_Mental_Health_Score_Prediction/
 │── requirements.txt
 │── README.md
 ```
+#Screen Shots
+![image alt](https://github.com/Sankesh12/Mental-Health-Score/blob/main/mental_1.jpg)
+
 
 ---
 

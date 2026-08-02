@@ -134,7 +134,7 @@ The application predicts mental health score using the following student informa
 
 
 
-# ⚙️ How It Works
+# ⚙️ Complete Workflow
 
 1. Load the Student Social Media & Mental Health dataset.
 

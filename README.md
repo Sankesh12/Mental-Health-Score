@@ -48,7 +48,7 @@
 
 * 💾 Model Serialization using Joblib
 
-* 🚀 Deployment Ready
+* 🚀 Deployed on Vercel
 
 ---
 

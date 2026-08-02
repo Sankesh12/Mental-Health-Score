@@ -17,7 +17,7 @@
 ---
 
 ## 🌐 Live Demo
-https://mental-health-score-sankesh-lal.vercel.app/
+- https://mental-health-score-sankesh-lal.vercel.app/
 
 ---
 
@@ -73,7 +73,7 @@ Three regression models were trained and compared before selecting the final mod
 
 **Random Forest Regressor (Default)**
 
-It achieved the highest **R² Score (87.76%)**, along with the lowest MAE and RMSE, making it the most accurate and reliable model for predicting students' mental health scores on unseen data.
+- It achieved the highest **R² Score (87.76%)**, along with the lowest MAE and RMSE, making it the most accurate and reliable model for predicting students' mental health scores on unseen data.
 
 ---
 
@@ -200,11 +200,7 @@ These insights can help educational institutions better understand student well-
 
 # 🔮 Future Improvements
 
-* Hyperparameter Optimization
-
 * Cross Validation
-
-* Pipeline Implementation
 
 * Explainable AI (SHAP)
 
@@ -226,10 +222,6 @@ This project is developed for educational and research purposes. The predicted m
 
 ---
 
-# 📬 Connect With Me
-
-If you found this project helpful, feel free to connect with me or provide your feedback.
-
 <p align="left">
 
 <a href="https://www.linkedin.com/in/sankeshlal/" target="_blank">
@@ -247,5 +239,7 @@ If you found this project helpful, feel free to connect with me or provide your 
 </p>
 
 ---
+
+# 📬 Connect With Me
 
 ⭐ **If you found this project useful, consider giving it a star on GitHub. It motivates me to build and share more machine learning projects!**

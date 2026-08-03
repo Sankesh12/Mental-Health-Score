@@ -1,4 +1,4 @@
-# 🧠 Student Mental Health Score Prediction
+# 🧠 Mental Health Score Prediction
 
 - ### An End-to-End Machine Learning Project for Predicting Student Mental Health Score using Social Media Usage, Lifestyle Habits, and Academic Information.
 

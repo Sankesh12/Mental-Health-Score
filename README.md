@@ -145,7 +145,7 @@ The application displays
 Example
 
 ```text
-Predicted Mental Health Score : 8.42 / 10
+Predicted Mental Health Score : 7.39 / 10
 ```
 
 ---

@@ -25,7 +25,7 @@
 
 - This project predicts a student's **Mental Health Score (0–10)** based on social media usage, academic performance, daily habits, and lifestyle factors.
 
-- It is more than just a machine learning notebook. The project demonstrates a complete end-to-end machine learning workflow including data preprocessing, exploratory data analysis, feature engineering, model training, regression model comparison, evaluation, REST API development using FastAPI, and an interactive frontend developed with HTML, CSS, and JavaScript.
+- The project demonstrates a complete end-to-end machine learning workflow including data preprocessing, exploratory data analysis, feature engineering, model training, regression model comparison, evaluation, REST API development using FastAPI, and an interactive frontend developed with HTML, CSS, and JavaScript.
 
 - The objective of this project is to show how machine learning can help analyze factors affecting student mental well-being and provide data-driven insights for educational institutions, researchers, and developers.
 

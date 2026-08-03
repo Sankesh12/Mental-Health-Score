@@ -204,8 +204,6 @@ These insights can help educational institutions better understand student well-
 
 * Explainable AI (SHAP)
 
-* Feature Selection
-
 * Docker Deployment
 
 * Cloud Deployment

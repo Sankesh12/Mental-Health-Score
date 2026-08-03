@@ -8,6 +8,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 model = joblib.load(os.path.join(BASE_DIR, '..', 'model.pkl'))
+
 top_countries = ['Other','India','USA','Canada','Australia','UK','Germany','Mexico','Turkey','France']
 
 app = FastAPI()
@@ -41,7 +42,7 @@ class PredictionResponse(BaseModel):
    
 @app.get('/')
 def greet():
-    return {'Welcome to Mental Health Score'}
+    return {'Welcome to Mental Health Score Prediction'}
 
 
 @app.post('/predict', response_model=PredictionResponse)

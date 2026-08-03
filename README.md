@@ -132,7 +132,23 @@ The application predicts mental health score using the following student informa
 
 ---
 
+# 📈 Prediction Output
 
+The application displays
+
+* 🧠 Predicted Mental Health Score (0–10)
+
+* 📊 Wellness Indicator
+
+* ⚡ Instant Prediction via FastAPI
+
+Example
+
+```text
+Predicted Mental Health Score : 8.42 / 10
+```
+
+---
 
 # ⚙️ Complete Workflow
 
@@ -161,24 +177,6 @@ The application predicts mental health score using the following student informa
 12. Deployed on Vercel.
 
 13. The API predicts a **Mental Health Score (0–10)** instantly.
-
----
-
-# 📈 Prediction Output
-
-The application displays
-
-* 🧠 Predicted Mental Health Score (0–10)
-
-* 📊 Wellness Indicator
-
-* ⚡ Instant Prediction via FastAPI
-
-Example
-
-```text
-Predicted Mental Health Score : 8.42 / 10
-```
 
 ---
 

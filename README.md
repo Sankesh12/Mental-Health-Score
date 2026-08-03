@@ -17,7 +17,7 @@
 ---
 
 ## 🌐 Live Demo
-- https://mental-health-score-sankesh-lal.vercel.app/
+- https://mental-health-score-sankesh-lal.vercel.app
 
 ---
 

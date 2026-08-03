@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const API_BASE = "";
+  const API_BASE = "https://mental-health-score-sankesh-lal.vercel.app/";
 
   const form = document.getElementById("predict-form");
   const submitBtn = document.getElementById("submit-btn");
